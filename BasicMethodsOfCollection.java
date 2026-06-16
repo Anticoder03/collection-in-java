@@ -2,7 +2,7 @@ package collectionDemo;
 import java.util.ArrayList;
 public class BasicMethodsOfCollection {
 	public static void main(String[] args) {
-		ArrayList <String> names = new ArrayList();
+		ArrayList <String> names = new ArrayList<>();
 //		Adding elements.
 		names.add("Ashish");
 		names.add("Raj");
