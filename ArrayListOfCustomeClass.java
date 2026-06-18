@@ -27,5 +27,7 @@ public class ArrayListOfCustomeClass {
 		System.out.println(bca);
 		
 		
+		
+		
 	}
 }
