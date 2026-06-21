@@ -14,5 +14,7 @@ public class HashSetDemo {
 		names.add("raj");
 		
 		System.out.println(names);
+		
+		
 	}
 }
